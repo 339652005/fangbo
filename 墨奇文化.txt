@@ -1,0 +1,3 @@
+测试域名:http://sh.moqimedia.com/
+后台账号:admin
+后台密码:admin
